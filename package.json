@@ -6,12 +6,12 @@
   "scripts": {
     "dev": "nodemon server.js"
   },
-  "author": "",
+  "author": "Saurabh Shukla",
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.0"
+    "nodemon": "^3.1.7"
   }
 }
